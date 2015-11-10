@@ -1,4 +1,8 @@
 {
+    "name": "paul/twigriot",
+    "license": "MIT",
+    "type": "package",
+    "description": "Twig riot renderer originally from https://github.com/janit/twigriot",
     "require": {
         "twig/twig": "~1.0",
         "symfony/process": "^2.7"
